@@ -1,0 +1,3 @@
+ecc start 0x00
+ecc count 0x09
+retrim
